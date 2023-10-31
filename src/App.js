@@ -12,7 +12,7 @@ import React from 'react'
 export default function App() {
   return (
     <div className="App">
-      <div className="gradient__bg">
+      <div className="page__bg">
 
         <BrowserRouter>
           <Routes>

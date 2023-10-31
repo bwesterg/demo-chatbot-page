@@ -61,3 +61,8 @@
     outline: none;
     cursor: pointer
 }
+
+
+.concept__navbar-menu_container.scale-up-center {
+    background: green;
+}
