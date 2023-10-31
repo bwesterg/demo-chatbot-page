@@ -5,7 +5,11 @@ export default function Home() {
     return (
         <>
             <Navbar />
-            <h2>Home Page</h2>
+            <div className="temp-div">
+
+                <h2>Home Page</h2>
+                <p>texty</p>
+            </div>
             <div className="paragraph-div">
                 <p>this is some stuff on my home page</p>
             </div>
