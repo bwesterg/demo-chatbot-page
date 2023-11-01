@@ -20,7 +20,6 @@ const Navbar = () => {
 
     return (
         <div className="gradient__bg">
-            
             <div className="concept__navbar">
                 <div className="concept__navbar-links">
                     <div className="concept__navbar-links_logo">
