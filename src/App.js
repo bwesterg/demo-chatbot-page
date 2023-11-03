@@ -22,7 +22,6 @@ export default function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/blog" element={<Blog />} />
             <Route path="/*" element={<NoPage />} />
-
           </Routes>
         </BrowserRouter>
       </div>
